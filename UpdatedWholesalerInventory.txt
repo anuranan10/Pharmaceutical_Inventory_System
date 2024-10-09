@@ -1,0 +1,30 @@
+Type: Liquid
+Name: Amoxicillin Suspension
+Quantity: 5
+Type: Liquid
+Name: Antacid Liquid
+Quantity: 7
+Type: Liquid
+Name: Ear Drops
+Quantity: 3
+Type: Liquid
+Name: Electrolyte
+Quantity: 4
+Type: Injection
+Name: Insulin
+Quantity: 5
+Type: Injection
+Name: Vitamin B12
+Quantity: 3
+Type: Tablet
+Name: Antibiotics
+Quantity: 2
+Type: Tablet
+Name: Antidepressants
+Quantity: 5
+Type: Tablet
+Name: Cholestrol Lowering
+Quantity: 7
+Type: Tablet
+Name: Antifungal
+Quantity: 4

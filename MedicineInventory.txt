@@ -1,0 +1,11 @@
+Liquid,Amoxicillin Suspension,5
+Liquid,Antacid Liquid,7
+Liquid,Ear Drops,3
+Liquid,Electrolyte,4
+Injection,Insulin,5
+Injection,Vitamin B12,3
+Injection,Chemotherapy,4
+Tablet,Antibiotics,2
+Tablet,Antidepressants,5
+Tablet,Cholestrol Lowering,7
+Tablet,Antifungal,4

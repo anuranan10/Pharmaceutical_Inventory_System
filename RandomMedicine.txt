@@ -1,0 +1,8 @@
+Liquid,Amoxicillin Suspension,5
+Liquid,Cough syrup,6
+Injection,Insulin,5
+Injection,Chemotherapy,4
+Injection,Vaccines,8
+Tablet,Antibiotics,2
+Tablet,Paracetamol,3
+Tablet,Blood Pressure,6

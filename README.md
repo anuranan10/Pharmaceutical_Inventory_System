@@ -7,11 +7,11 @@ The **Pharmaceutical Inventory Management System** is a Java-based application d
 
 ## Key Features
 
-- ** Inventory Management**: Monitor and update stock levels for different categories of medicines.
-- ** Sales Processing**: Simulate sales from wholesalers to retailers with accurate tracking.
-- ** Expense Tracking**: Record and calculate expenses incurred during procurement.
-- ** Income Calculation**: Compute income generated from wholesale distribution.
-- ** Final Reporting**: Generate summaries detailing income, expenses, and net profit.
+- **Inventory Management**: Monitor and update stock levels for different categories of medicines.
+- **Sales Processing**: Simulate sales from wholesalers to retailers with accurate tracking.
+- **Expense Tracking**: Record and calculate expenses incurred during procurement.
+- **Income Calculation**: Compute income generated from wholesale distribution.
+- **Final Reporting**: Generate summaries detailing income, expenses, and net profit.
 
 ---
 

@@ -16,9 +16,9 @@ Quantity: 5
 Type: Injection
 Name: Vitamin B12
 Quantity: 3
-Type: Tablet
-Name: Antibiotics
-Quantity: 2
+Type: Injection
+Name: Chemotherapy
+Quantity: 4
 Type: Tablet
 Name: Antidepressants
 Quantity: 5

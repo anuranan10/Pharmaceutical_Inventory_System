@@ -18,7 +18,7 @@ The **Pharmaceutical Inventory Management System** is a Java-based application d
 ## Technologies Used
 
 - Java (JDK 22.0.1)
-- Object-Oriented Programming Principles (Encapsulation, Inheritance, Polymorphism)
+- Object-Oriented Programming Principles (Encapsulation, Inheritance, Polymorphism, Data Abstraction)
 - Collections Framework (e.g., ArrayList)
 - File I/O for data persistence
 
